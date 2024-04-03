@@ -6,7 +6,8 @@ this is not so much as a total guide as much as it is some stuff i've learned an
 
 - jose briones has contributed a lot in this space. i am not personally endorsing him 100%, but he has definitely posted good resources (more mentioned in #picking a phone)
 - most phone carriers, at least in the us (tmobile, att, verizon, etc), no longer support non 4g devices. phones that fall in this space are aware of this and build that compatibility into their devices, but this is a very important note. a 2g only or 3g only device should not be expected to work as a phone
-- if you're curious about what my personal setup is or devices that i've tried out, i will mention it at the end.
+- if there is one "hybrid" phone that would be a flat out recommendation, it would probably be the cat s22 flip
+- details on phones i've used and my current setup will be mentioned towards the end
 
 i would recommend reading/skimming through this to get an idea, but the easiest path to try out is usually:
 
@@ -72,15 +73,15 @@ if you are committed to changing your phone, then the biggest step will be to ac
 
 ## xiaomi f21 pro / f30 pro
 
-one phone i used is the 'xiaomi f21 pro' which is an international phone. i purchased this, and flashed custom firmware on this to remove some of the chinese apps, and get things a little more to my liking. i genuinely found this phone pretty nice, but because it was an international edition, it did not work well for the cell phone provider i was using (tmobile). since then, there has actually been a kosher version that is designed to specifically work well on tmobile (and possibly other) us mobile carriers. you can confirm this by looking at tmobiles 4g [bands](https://www.t-mobile.com/support/coverage/t-mobile-network) (2, 5, 4, 66) and their extended bands (12, 71), and compare it to the [kosher](https://koshercell.org/products/qin-f30-kosher?variant=40846171504674) f30 pro (2, 4, 12, 13, 17, 66, 71).
+one phone i used is the 'xiaomi f21 pro' which is an international phone. i purchased this, and flashed custom firmware on this to remove some of the chinese apps, and get things a little more to my liking. i genuinely found this phone pretty nice, but because it was an international edition, it did not work well for the cell phone provider i was using (tmobile). since then, there has actually been a kosher version that is designed to specifically work well on tmobile (and possibly other) us mobile carriers. you can confirm this by looking at tmobiles 4g [bands](https://www.t-mobile.com/support/coverage/t-mobile-network) (2, 5, 4, 66) and their extended bands (12, 71), and compare it to the [kosher](https://koshercell.org/products/qin-f30-kosher?variant=40846171504674) f30 pro (2, 4, 12, 13, 17, 66, 71). upon doing some further research, it seems like the f21/international version, with some tinkering, can be enabled to use the america phone bands. this is something i may personally test, but that would be a big plus for this phone.
 
 an 'upgraded' version of the f21 pro has been released. i say 'upgraded' since the main upgrades come in the form of screen size and processing power, which may seem contradictory if the primary focus is to be more minimal and cut away from smart phones. i did want to try it out at some point, so if that does happen i will update this section, but at the very least i wanted to make a mention of it for the sake of relaying information.
 
 ## cat s22 flip
-yes, cat, like caterpillar, like the construction company. no, they do not sell a smart phone. they sell multiple smart phones. the cat s22 flip happens to be sold through tmobile as well, has android go, and is literally a flip phone with tactile buttons. it also happens to have a touch screen on the inside, and both a selfie camera as well as a rear facing camera. the only 'downside' here would be that if someone wanted this phone purely for minimal purposes, they would be stuck with a device that's a bit on the bulkier and heavier side physically. i only recently got my hands on this, but overall have seen pretty good reviews, and from my initial hands-on, i'm quite impressed with what they've made.
+yes, cat, like caterpillar, like the construction company. no, they do not sell **a** smart phone. they, in fact, sell **multiple** smart phones. the cat s22 flip happens to be sold through tmobile as well, has android go, and is literally a flip phone with tactile buttons. it also happens to have a touch screen on the inside, and both a selfie camera as well as a rear facing camera. the only 'downside' here would be that if someone wanted this phone purely for minimal purposes, they would be stuck with a device that's a bit on the bulkier and heavier side physically. i only recently got my hands on this, but overall have seen pretty good reviews, and from my initial hands-on, i'm quite impressed with what they've made.
 
 ## kaiOS devices
-now i have not personally used a kaios device, but i believe there's a lot of potential here to find a phone that fits your needs in a somewhat decent physical form factor.
+now i have not personally used a kaios device, but i believe there's a lot of potential here to find a phone that fits your needs in a somewhat decent physical form factor. initially, i thought this category had more potential, but it seems, at least for the americas, that kaios isn't exactly a growing market. what this means is limited options, and maybe less/unreliable software support. this is something i'll keep looking into, but just wanted to point out that detail.
 
 # my current setup
 
