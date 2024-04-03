@@ -16,9 +16,9 @@ i would recommend reading/skimming through this to get an idea, but the easiest 
   - limiting notifications
   - using a physical wristwatch
 - hybrid phone
-- dumb phone in that order.
+- dumb phone
 
-hopefully this doc helps you figure out what will work best for you.
+in that order. hopefully this doc helps you figure out what will work best for you.
 
 # goals, expectations, and the modern era of smart phones.
 before we even begin discussing dumb phones or some kind of phone switch, i think it's important to discuss what is it that you hope to achieve. there are a variety of outcomes and potential benefits, but we should be clear about it from now, so as to not have confusion later.
